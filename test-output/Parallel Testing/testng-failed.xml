@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [Parallel Testing]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="methods" name="Test Parallel(failed)">
+    <classes>
+      <class name="com.okr.testcases.ContactUsPageTest">
+        <methods>
+          <include name="tearDownMethod"/>
+          <include name="contactUsPage"/>
+          <include name="setup"/>
+          <include name="setUpSuite"/>
+        </methods>
+      </class> <!-- com.okr.testcases.ContactUsPageTest -->
+    </classes>
+  </test> <!-- Test Parallel(failed) -->
+</suite> <!-- Failed suite [Parallel Testing] -->

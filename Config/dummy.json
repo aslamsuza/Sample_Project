@@ -1,0 +1,36 @@
+{
+  "dropDownOption": "Give feedback about an experience",
+  "searchValue": "maa",
+  "date": "17-01-2024"
+  
+  "correctData": {
+    "tickerNumber": "123",
+    "stylistName": "aslam",
+    "feedBack": "aslamsuza",
+    "firstName": "aslam",
+    "lastName": "suza",
+    "phoneNumber": "9025053781",
+    "email": "suza@gmail.com",
+    "addressInput": "32/18 ansari nagar",
+    "cityInput": "madurai",
+    "zipCodeInput": "3001",
+    "countryDropDownOption": "USA",
+    "stateDropDownOption": "ALASKA",
+    
+  },
+  "incorrectData": {
+    "ticketNumber": "aslam",
+    "stylistName": "123",
+    "feedBack": "aaaa123",
+    "firstName": "123",
+    "lastName": "1111",
+    "phoneNumber": "00090",
+    "email": "aslam@gmail",
+    "addressInput": "",
+    "cityInput": "",
+    "zipCodeInput": "",
+    "countryDropDownOption": "",
+    "stateDropDownOption": "",
+   
+  }
+}
