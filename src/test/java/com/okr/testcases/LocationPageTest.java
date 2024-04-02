@@ -5,6 +5,8 @@ import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import com.okr.pages.LocationPageObjects;
+
 
 public class LocationPageTest extends ContactUsPageTest {
 	String headerLink = "locations";
